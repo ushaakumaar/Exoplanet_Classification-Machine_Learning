@@ -42,3 +42,11 @@ Used three methods for feature selection
 #### Coefficient Value
 ![LogisticRegressionFeatureSelection.png](Images/LogisticRegressionFeatureSelection.png)
 
+#### Select From Model (SFM)
+* Built Logistic Regression model using the top 17 features suggested by SFM method and evaluated the model performance.
+* Used `GridSearch` to tune model parameters and Evaluated the model performance.
+```
+Training Data Score: 0.8844173183292008
+Testing Data Score: 0.8792906178489702
+```  
+
