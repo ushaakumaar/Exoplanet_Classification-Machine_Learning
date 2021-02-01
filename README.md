@@ -104,3 +104,8 @@ The difference in accuracy is nominal compared to the amount of time required to
         * RFE
         * RandomForestClassifier
 
+---
+
+## Contributors
+
+- Usha Saravanakumar (ushaakumaar@gmail.com)
