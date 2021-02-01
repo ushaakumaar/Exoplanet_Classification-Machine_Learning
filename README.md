@@ -18,3 +18,8 @@ I built two different machine learning models -Logistic Regression and Random Fo
 
 ## Model 1 - Logistic Regression
 Followed the below process to create a Logistic Regression model that classified the exoplanets.
+
+### Data Preprocessing
+* Defined predictors and target values
+* Used `MinMaxScaler` to scale the numerical data.
+
