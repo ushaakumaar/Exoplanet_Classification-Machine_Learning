@@ -50,3 +50,11 @@ Training Data Score: 0.8844173183292008
 Testing Data Score: 0.8792906178489702
 ```  
 
+#### Recursive Feature Elimination (RFE)
+* Built Logistic Regression model using the top 17 features suggested by RFE method and evaluated the model performance.
+* Used `GridSearch` to tune model parameters and Evaluated the model performance.
+```
+Training Data Score: 0.8855617013160404
+Testing Data Score: 0.8804347826086957
+```  
+
