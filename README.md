@@ -60,3 +60,7 @@ Testing Data Score: 0.8804347826086957
 
 ## Model 2 - Random Forest Classifier
 Followed the below process to create a Random Forest Classifier model that classified the exoplanets.
+
+### Data Preprocessing
+* Defined predictors and target values
+* Used `MinMaxScaler` to scale the numerical data.
