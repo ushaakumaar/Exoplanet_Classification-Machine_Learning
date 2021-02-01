@@ -15,3 +15,6 @@ I built two different machine learning models -Logistic Regression and Random Fo
 * Checked data unbalance in target value, i.e., Class
 
 ![Data_Unbalance_In_Target_Values.png](Images/Data_Unbalance_In_Target_Values.png)
+
+## Model 1 - Logistic Regression
+Followed the below process to create a Logistic Regression model that classified the exoplanets.
