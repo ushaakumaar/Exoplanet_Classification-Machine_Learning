@@ -23,3 +23,12 @@ Followed the below process to create a Logistic Regression model that classified
 * Defined predictors and target values
 * Used `MinMaxScaler` to scale the numerical data.
 
+### Model Evaluation with all 40 features
+* Separated the data into training and testing data.
+* Trained the model and evaluated the model against test dataset.
+* Used `GridSearch` to tune model parameters.
+* Evaluated model performance
+```
+Training Data Score: 0.8897577722677856
+Testing Data Score: 0.88558352402746
+```
