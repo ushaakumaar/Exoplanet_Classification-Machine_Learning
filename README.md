@@ -32,3 +32,10 @@ Followed the below process to create a Logistic Regression model that classified
 Training Data Score: 0.8897577722677856
 Testing Data Score: 0.88558352402746
 ```
+### Feature Selection
+
+Used three methods for feature selection
+1. Coefficient Value
+2. Select From Model (SFM)
+3. Recursive Feature Elimination (RFE)
+
