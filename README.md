@@ -8,3 +8,9 @@ This project aims to build machine learning models to classify exoplanets from t
 
 I built two different machine learning models -Logistic Regression and Random Forest Classifier to classify the exoplanets. Find below a detailed summary of the process used to build these models and a detailed report about the two models' findings and performance comparison.
 
+## Data Exploration
+* Read the data from CSV file into a dataframe
+* Cleaned the dataset by eliminating columns and rows containing null values
+* Analysed the data features
+* Checked data unbalance in target value, i.e., Class
+![Data_Unbalance_In_Target_Values.png](Images/Data_Unbalance_In_Target_Values.png)
