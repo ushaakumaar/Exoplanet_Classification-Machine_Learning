@@ -93,3 +93,14 @@ Random Forest Classifier model took 132 mins and 54 mins to train the model with
 
 The difference in accuracy is nominal compared to the amount of time required to train the models. So, the Logistic Regression model seems to be a better choice.
 
+## Programming Language / Applications - Used
+  * Jupyter Notebook
+  * Python
+    - Pandas
+    - Scikit-Learn
+        * GridSearchCV
+        * LogisticRegression
+        * SelectFromModel
+        * RFE
+        * RandomForestClassifier
+
