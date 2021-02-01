@@ -39,3 +39,6 @@ Used three methods for feature selection
 2. Select From Model (SFM)
 3. Recursive Feature Elimination (RFE)
 
+#### Coefficient Value
+![LogisticRegressionFeatureSelection.png](Images/LogisticRegressionFeatureSelection.png)
+
