@@ -1,1 +1,3 @@
-# machine-learning-exoplanet-exploration
+# Machine Learning - Exoplanet Exploration
+
+![exoplanets.jpg](Images/exoplanets.jpg)
