@@ -64,3 +64,14 @@ Followed the below process to create a Random Forest Classifier model that class
 ### Data Preprocessing
 * Defined predictors and target values
 * Used `MinMaxScaler` to scale the numerical data.
+
+### Model Evaluation with all 40 features
+* Separated the data into training and testing data.
+* Trained the model and evaluated the model against test dataset.
+* Used `GridSearch` to tune model parameters.
+* Evaluated model performance
+```
+Training Data Score: 1.0
+Testing Data Score: 0.9067505720823799
+```
+
