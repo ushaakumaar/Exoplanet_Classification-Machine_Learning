@@ -13,4 +13,5 @@ I built two different machine learning models -Logistic Regression and Random Fo
 * Cleaned the dataset by eliminating columns and rows containing null values
 * Analysed the data features
 * Checked data unbalance in target value, i.e., Class
+
 ![Data_Unbalance_In_Target_Values.png](Images/Data_Unbalance_In_Target_Values.png)
