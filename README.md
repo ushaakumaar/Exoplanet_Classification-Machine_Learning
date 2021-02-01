@@ -75,3 +75,13 @@ Training Data Score: 1.0
 Testing Data Score: 0.9067505720823799
 ```
 
+### Feature Selection
+
+Used `feature_importances_` for feature selection
+* Built Random Forest Classifier model using the top 17 features suggested by `feature_importances_`  and evaluated the model performance.
+* Used `GridSearch` to tune model parameters and evaluated the model performance.
+```
+Training Data Score: 1.0
+Testing Data Score: 0.8998855835240275
+```  
+
