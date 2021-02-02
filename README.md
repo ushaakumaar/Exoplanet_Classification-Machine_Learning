@@ -106,6 +106,6 @@ The difference in accuracy is nominal compared to the amount of time required to
 
 ---
 
-## Contributors
+## Contributor
 
 - Usha Saravanakumar (ushaakumaar@gmail.com)
